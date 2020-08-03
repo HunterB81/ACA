@@ -15,5 +15,5 @@ this project were all extensively researched to produce the most cost-efficient 
 to go to market.
   
 ### Website
-Inside of this folder contains all of the website's files wehere all of the ACA's information and documentation is gathered together and put together for display.
+Inside of this folder contains all of the website's files wehere all of the ACA's information and documentation is gathered together and put together for display. The index.html file is the website that puts everything together on display. 
  
