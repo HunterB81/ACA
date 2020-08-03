@@ -23,3 +23,5 @@ This file is the C++ code for the Arduino that allows the user to control the AC
 ### GPSCOMP
 This file is how we make the ACA follow the user by calculating the ACA's gps coordinates and the user's phones coordinates and finding the heading, bearing, and Distance. The user's phones coordinates are streamed through the Blynk mobile app. 
  
+### Mobile App
+This is an attempt at creating a mobile application through React Native that uses Bluetooth connectivity and controls the ACA. I may go back in the future to complete it but for now we ended up using the mobile application called Blynk to control the ACA. 
