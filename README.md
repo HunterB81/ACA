@@ -16,4 +16,7 @@ to go to market.
   
 ### Website
 Inside of this folder contains all of the website's files wehere all of the ACA's information and documentation is gathered together and put together for display. The index.html file is the website that puts everything together on display. 
+
+### Joystick
+This file is the C++ code for the Arduino that allows the user to control the ACA using a Joystick that is setup on the Blynk app that the user will be using. 
  
