@@ -1,4 +1,4 @@
-# ACA (Autonomous Carrier Assistant)
+;;# ACA (Autonomous Carrier Assistant)
 Created by Hunter Busa, Amine Chahli, Richard Garces, Muhammad Khan.
 
 ## Project Description
@@ -20,7 +20,7 @@ Inside of this folder contains all of the website's files wehere all of the ACA'
 ### Joystick
 This file is the C++ code for the Arduino that allows the user to control the ACA using a Joystick that is setup on the Blynk app that the user will be using.
 
-### GPSCOMP
+### BTGPS
 This file is how we make the ACA follow the user by calculating the ACA's gps coordinates and the user's phones coordinates and finding the heading, bearing, and Distance. The user's phones coordinates are streamed through the Blynk mobile app. 
  
 ### Mobile App
